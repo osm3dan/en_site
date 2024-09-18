@@ -6,4 +6,4 @@ author: OS
 layout: home
 ---
 
-このウェブサイトは [jelyll-gitbook](https://github.com/sighingnow/jekyll-gitbook) を元に作成されています。
+This website is created based on [jelyll-gitbook](https://github.com/sighingnow/jekyll-gitbook)
