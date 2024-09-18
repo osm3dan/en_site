@@ -8,6 +8,8 @@ permalink: /
 
 -
 
+Osamu SANDANBATA (Ph. D)
+
 Assitant Professor
 
 Earthquake Research Institute
