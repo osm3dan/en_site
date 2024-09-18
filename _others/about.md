@@ -6,4 +6,4 @@ author: OS
 layout: home
 ---
 
-This website is created based on [jelyll-gitbook](https://github.com/sighingnow/jekyll-gitbook)
+This website is created based on [jekyll-gitbook](https://github.com/sighingnow/jekyll-gitbook)
