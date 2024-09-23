@@ -6,7 +6,9 @@ date: 2024-09-17
 layout: post
 ---
 
-### 2024
+### 2024.
+
+2024/09/23: Seminar talk at Seoul National University [Center for Deep Surface Coupling of Earth, Seoul National University](https://deepsurf.snu.ac.kr/category/board-141-GR-EhlQB5Q8-20230411185154/)
 
 2024/09/17: Website renewed
 
@@ -16,7 +18,7 @@ layout: post
 
 2024/01/21: First-authored paper published [Sandanbata *et al.* (2024, GRL)](https://doi.org/10.1029/2023GL106949)
 
-### 2023
+### 2023.
 2024/12/27: First-authored paper published [Sandanbata & Saito (2024, JGR: Solid Earth)](https://doi.org/10.1029/2023JB027917)
 
 2024/05/01: Appointed at Earthquake Research Institute, U-Tokyo
