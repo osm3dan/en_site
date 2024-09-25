@@ -2,6 +2,8 @@
 <html lang="en" >
     <head>
 
+        {%- include google_tag_head.html -%}
+
         {%- include head.html -%}
 
         {%- include google-analytics.html -%}
@@ -13,6 +15,9 @@
         {% endif %}
     </head>
     <body>
+
+        {%- include google_tag_body.html -%}
+
         <div class="book">
 
             {%- include toc-date.html -%}

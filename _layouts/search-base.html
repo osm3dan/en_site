@@ -5,6 +5,8 @@
     <head>
         {%- include head.html -%}
 
+        {%- include google_tag_head.html -%}
+
         {%- include google-analytics.html -%}
 
         {% assign reversed_posts = site.posts | reverse %}
@@ -14,6 +16,9 @@
         {% endif %}
     </head>
     <body>
+
+        {%- include google_tag_body.html -%}
+
         <div class="book">
 
             {%- include toc-date.html -%}
