@@ -74,7 +74,7 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
-
+  - jekyll-sitemap
 github_username: osm3dan
 
 google_analytics: G-5B1GX4BD3R
