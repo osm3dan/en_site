@@ -8,7 +8,9 @@ layout: post
 
 ### 2024.
 
-2024/09/24: An earthquake & tsunami at Sumisu Caldera. 
+2024/10/17: Co-authored paper published. [Takemura *et al.* (2024, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029746)
+
+2024/09/24: An earthquake & tsunami at Sumisu Caldera. [Short report (in Japanese)](../../pages/jishin/#2024年9月24日-鳥島近海地震津波)
 
 2024/09/23: Seminar talk at Seoul National University. [Center for Deep Surface Coupling of Earth, Seoul National University](https://deepsurf.snu.ac.kr/category/board-141-GR-EhlQB5Q8-20230411185154/)
 
