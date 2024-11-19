@@ -5,7 +5,7 @@ title: Publications
 
 ### Submitted papers 
 
-Sandanbata, O. & Saito, T., Segmented trapdoor fault in Kita-Ioto Caldera, Japan: Insights from milli-meter tsunami waves captured by an array network of ocean bottom pressure gauges (under revision). Preprint: [https://doi.org/10.22541/essoar.172072454.49207214/v1](https://doi.org/10.22541/essoar.172072454.49207214/v1)
+Sandanbata, O. & Saito, T., Segmented trapdoor fault in Kita-Ioto Caldera, Japan: Insights from milli-meter tsunami waves captured by an array network of ocean bottom pressure gauges (accepted for Journal of Geophysical Research: Solid Earth). Preprint: [https://doi.org/10.22541/essoar.172072454.49207214/v1](https://doi.org/10.22541/essoar.172072454.49207214/v1)
 
 ### Peer-reviewed papers
 
@@ -15,7 +15,7 @@ Takemura, S., Kubota, T., & Sandanbata, O. (2024). Successive tsunamigenic event
 
 Kubota, T., Sandanbata, O., Saito, T., & Matsuzawa, T. (2024). Accelerating seafloor uplift of submarine caldera near Sofugan volcano, Japan, resolved by distant tsunami recordings. *Geophysical Research Letters*, 51(12). [https://doi.org/10.1029/2024gl108415](https://doi.org/10.1029/2024gl108415)
 
-- 
+-
 
 Sandanbata, O., Satake, K., Takemura, S., Watada, S., Maeda, T., & Kubota, T. (2024). Enigmatic tsunami waves amplified by repetitive source events near Sofugan volcano, Japan. *Geophysical Research Letters*, 51, e2023GL106949. [https://doi.org/10.1029/2023GL106949](https://doi.org/10.1029/2023GL106949)
 
