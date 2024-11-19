@@ -77,4 +77,3 @@ Fukao, Y., Sandanbata, O., Sugioka, H., Ito, A., Shiobara, H., Watada, S., & Sat
 
 Sandanbata, O., Obara, K., Maeda, T., Takagi, R., & Satake, K. (2015). Sudden changes in the amplitude‐frequency distribution of long‐period tremors at Aso volcano, southwest Japan, *Geophysical Research Letters*, 42, 10,256–10,262. [https://doi.org/10.1002/2015GL066443](https://doi.org/10.1002/2015GL066443)
 
--
