@@ -8,6 +8,8 @@ layout: post
 
 ### 2024.
 
+2024/11/29: First-authored paper published. [Sandanbata & Saito (2024a, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029755)
+
 2024/10/17: Co-authored paper published. [Takemura *et al.* (2024, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029746)
 
 2024/09/24: An earthquake & tsunami at Sumisu Caldera. [Short report (in Japanese)](../../pages/jishin/#2024年9月24日-鳥島近海地震津波)
@@ -23,7 +25,7 @@ layout: post
 2024/01/21: First-authored paper published. [Sandanbata *et al.* (2024, GRL)](https://doi.org/10.1029/2023GL106949)
 
 ### 2023.
-2024/12/27: First-authored paper published. [Sandanbata & Saito (2024, JGR: Solid Earth)](https://doi.org/10.1029/2023JB027917)
+2024/12/27: First-authored paper published. [Sandanbata & Saito (2024a, JGR: Solid Earth)](https://doi.org/10.1029/2023JB027917)
 
 2024/05/01: Appointed at Earthquake Research Institute, U-Tokyo
 
