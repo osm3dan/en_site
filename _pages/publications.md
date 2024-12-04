@@ -10,7 +10,7 @@ title: Publications
 
 ### Peer-reviewed papers
 
-Sandanbata, O., & Saito, T. (2024). Segmented Trapdoor Fault in Kita-Ioto Caldera, Japan: Insights From Millimeter Tsunami Waves Captured by an Array Network of Ocean Bottom Pressure Gauges. *Journal of Geophysical Research: Solid Earth*, 129(12), e2024JB029755. [https://doi.org/10.1029/2024JB029755](https://doi.org/10.1029/2024JB029755) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/research/6579/)
+Sandanbata, O., & Saito, T. (2024b). Segmented Trapdoor Fault in Kita-Ioto Caldera, Japan: Insights From Millimeter Tsunami Waves Captured by an Array Network of Ocean Bottom Pressure Gauges. *Journal of Geophysical Research: Solid Earth*, 129(12), e2024JB029755. [https://doi.org/10.1029/2024JB029755](https://doi.org/10.1029/2024JB029755) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/research/6579/)
 
 -
 
@@ -26,7 +26,7 @@ Sandanbata, O., Satake, K., Takemura, S., Watada, S., Maeda, T., & Kubota, T. (2
 
 -
 
-Sandanbata, O., & Saito, T. (2024). Quantifying magma overpressure beneath a submarine caldera: A mechanical modeling approach to tsunamigenic trapdoor faulting near Kita-Ioto Island, Japan. *Journal of Geophysical Research: Solid Earth*, 129, e2023JB027917. [https://doi.org/10.1029/2023JB027917](https://doi.org/10.1029/2023JB027917) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/research/6082/)
+Sandanbata, O., & Saito, T. (2024a). Quantifying magma overpressure beneath a submarine caldera: A mechanical modeling approach to tsunamigenic trapdoor faulting near Kita-Ioto Island, Japan. *Journal of Geophysical Research: Solid Earth*, 129, e2023JB027917. [https://doi.org/10.1029/2023JB027917](https://doi.org/10.1029/2023JB027917) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/research/6082/)
 
 -
 

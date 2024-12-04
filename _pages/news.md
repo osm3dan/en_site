@@ -25,13 +25,13 @@ layout: post
 2024/01/21: First-authored paper published. [Sandanbata *et al.* (2024, GRL)](https://doi.org/10.1029/2023GL106949) 
 
 ### 2023.
-2024/12/27: First-authored paper published. [Sandanbata & Saito (2024a, JGR: Solid Earth)](https://doi.org/10.1029/2023JB027917) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/research/6082/)
+2023/12/27: First-authored paper published. [Sandanbata & Saito (2024a, JGR: Solid Earth)](https://doi.org/10.1029/2023JB027917) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/research/6082/)
 
-2024/05/01: Appointed at Earthquake Research Institute, U-Tokyo
+2023/05/01: Appointed at Earthquake Research Institute, U-Tokyo
 
-2024/04/03: First-authored paper published. [Sandanbata *et al.* (2023, GRL)](https://doi.org/10.1029/2022GL101086)
+2023/04/03: First-authored paper published. [Sandanbata *et al.* (2023, GRL)](https://doi.org/10.1029/2022GL101086)
 
-2024/01/31: Plenary talk at IAVCEI 2023. [ECR Plenary Session](https://confer.eventsair.com/iavcei2023/plenary-speakers)
+2023/01/31: Plenary talk at IAVCEI 2023. [ECR Plenary Session](https://confer.eventsair.com/iavcei2023/plenary-speakers)
 
 ### 2022.
 
