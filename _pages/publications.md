@@ -10,11 +10,11 @@ title: Publications
 
 ### Peer-reviewed papers
 
-Sandanbata, O., & Saito, T. (2024). Segmented Trapdoor Fault in Kita-Ioto Caldera, Japan: Insights From Millimeter Tsunami Waves Captured by an Array Network of Ocean Bottom Pressure Gauges. *Journal of Geophysical Research: Solid Earth*, 129(12), e2024JB029755. [https://doi.org/10.1029/2024JB029755](https://doi.org/10.1029/2024JB029755)
+Sandanbata, O., & Saito, T. (2024). Segmented Trapdoor Fault in Kita-Ioto Caldera, Japan: Insights From Millimeter Tsunami Waves Captured by an Array Network of Ocean Bottom Pressure Gauges. *Journal of Geophysical Research: Solid Earth*, 129(12), e2024JB029755. [https://doi.org/10.1029/2024JB029755](https://doi.org/10.1029/2024JB029755) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/outreach/latestresearch/#:~:text=Segmented%20trapdoor%20fault%20in%20a%20submarine%20caldera%20revealed%20with%20milli%2Dmeter%20tsunami%20waveform%20record)
 
 -
 
-Takemura, S., Kubota, T., & Sandanbata, O. (2024). Successive tsunamigenic events near Sofu Seamount inferred from high-frequency teleseismic P and regional T waves. *Journal of Geophysical Research: Solid Earth*, 129, e2024JB029746. [https://doi.org/10.1029/2024JB029746](https://doi.org/10.1029/2024JB029746)
+Takemura, S., Kubota, T., & Sandanbata, O. (2024). Successive tsunamigenic events near Sofu Seamount inferred from high-frequency teleseismic P and regional T waves. *Journal of Geophysical Research: Solid Earth*, 129, e2024JB029746. [https://doi.org/10.1029/2024JB029746](https://doi.org/10.1029/2024JB029746) [Summary](https://www.eri.u-tokyo.ac.jp/en/outreach/latestresearch/#:~:text=Successive%20tsunamigenic%20events%20near%20Sofu%20Seamount%20inferred%20from%20high%2Dfrequency%20teleseismic%20P%20and%20regional%20T%20waves)
 
 -
 
@@ -26,7 +26,7 @@ Sandanbata, O., Satake, K., Takemura, S., Watada, S., Maeda, T., & Kubota, T. (2
 
 -
 
-Sandanbata, O., & Saito, T. (2024). Quantifying magma overpressure beneath a submarine caldera: A mechanical modeling approach to tsunamigenic trapdoor faulting near Kita-Ioto Island, Japan. *Journal of Geophysical Research: Solid Earth*, 129, e2023JB027917. [https://doi.org/10.1029/2023JB027917](https://doi.org/10.1029/2023JB027917)
+Sandanbata, O., & Saito, T. (2024). Quantifying magma overpressure beneath a submarine caldera: A mechanical modeling approach to tsunamigenic trapdoor faulting near Kita-Ioto Island, Japan. *Journal of Geophysical Research: Solid Earth*, 129, e2023JB027917. [https://doi.org/10.1029/2023JB027917](https://doi.org/10.1029/2023JB027917) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/research/6082/)
 
 -
 
@@ -34,7 +34,7 @@ Sandanbata, O., Watada, S., Satake, K., Kanamori, H., & Rivera, L. (2023). Two v
 
 -
 
-Sandanbata, O., Watada, S., Satake, K., Kanamori, H., Rivera, L., & Zhan, Z. (2022). Sub-decadal volcanic tsunamis due to submarine trapdoor faulting at Sumisu caldera in the Izu–Bonin Arc. *Journal of Geophysical Research: Solid Earth*, 127, e2022JB024213. [https://doi.org/10.1029/2022JB024213](https://doi.org/10.1029/2022JB024213)
+Sandanbata, O., Watada, S., Satake, K., Kanamori, H., Rivera, L., & Zhan, Z. (2022). Sub-decadal volcanic tsunamis due to submarine trapdoor faulting at Sumisu caldera in the Izu–Bonin Arc. *Journal of Geophysical Research: Solid Earth*, 127, e2022JB024213. [https://doi.org/10.1029/2022JB024213](https://doi.org/10.1029/2022JB024213) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/research/5323/)
 
 -
 

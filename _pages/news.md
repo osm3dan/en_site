@@ -8,9 +8,9 @@ layout: post
 
 ### 2024.
 
-2024/11/29: First-authored paper published. [Sandanbata & Saito (2024a, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029755)
+2024/11/29: First-authored paper published. [Sandanbata & Saito (2024a, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029755) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/outreach/latestresearch/#:~:text=Segmented%20trapdoor%20fault%20in%20a%20submarine%20caldera%20revealed%20with%20milli%2Dmeter%20tsunami%20waveform%20record)
 
-2024/10/17: Co-authored paper published. [Takemura *et al.* (2024, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029746)
+2024/10/17: Co-authored paper published. [Takemura *et al.* (2024, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029746) [Summary](https://www.eri.u-tokyo.ac.jp/en/outreach/latestresearch/#:~:text=Successive%20tsunamigenic%20events%20near%20Sofu%20Seamount%20inferred%20from%20high%2Dfrequency%20teleseismic%20P%20and%20regional%20T%20waves)
 
 2024/09/24: An earthquake & tsunami at Sumisu Caldera. [Short report (in Japanese)](../../pages/jishin/#2024年9月24日-鳥島近海地震津波)
 
@@ -22,10 +22,10 @@ layout: post
 
 2024/04/21: Interviewed. [Tokyo Shinbun](https://www.tokyo-np.co.jp/article/322603)
 
-2024/01/21: First-authored paper published. [Sandanbata *et al.* (2024, GRL)](https://doi.org/10.1029/2023GL106949)
+2024/01/21: First-authored paper published. [Sandanbata *et al.* (2024, GRL)](https://doi.org/10.1029/2023GL106949) 
 
 ### 2023.
-2024/12/27: First-authored paper published. [Sandanbata & Saito (2024a, JGR: Solid Earth)](https://doi.org/10.1029/2023JB027917)
+2024/12/27: First-authored paper published. [Sandanbata & Saito (2024a, JGR: Solid Earth)](https://doi.org/10.1029/2023JB027917) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/research/6082/)
 
 2024/05/01: Appointed at Earthquake Research Institute, U-Tokyo
 
@@ -39,7 +39,7 @@ layout: post
 
 2022/10/17: Stanford visit report. [Slow-to-Fast Science](https://slow-to-fast-eq.org/events/news/overseas_2022)
 
-2022/09/12: First-authored paper published. [Sandanbata *et al.* (2022, JGR: olid Earth)](https://doi.org/10.1029/2022JB024213)
+2022/09/12: First-authored paper published. [Sandanbata *et al.* (2022, JGR: Solid Earth)](https://doi.org/10.1029/2022JB024213) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/research/5323/)
 
 2022/09/12: Co-authored paper published. [Kubo *et al.* (2022, EPS)](https://doi.org/10.1186/s40623-022-01663-w)
 
@@ -48,7 +48,7 @@ layout: post
 
 2021/09/30: Co-authored paper published. [Lai *et al.* (2021, JGR: Solid Earth](https://doi.org/10.1029/2021JB022139)
 
-2021/05/17: First-authored paper published. [Sandanbata *et al.* (2021, JGR: olid Earth)](https://doi.org/10.1029/2021JB021693)
+2021/05/17: First-authored paper published. [Sandanbata *et al.* (2021, JGR: Solid Earth)](https://doi.org/10.1029/2021JB021693)
 
 2021/05/17: First-authored paper published. [Sandanbata *et al.* (2021, GJI)](https://doi.org/10.1093/gji/ggab192)
 
