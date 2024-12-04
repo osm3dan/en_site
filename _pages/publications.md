@@ -14,7 +14,7 @@ Sandanbata, O., & Saito, T. (2024). Segmented Trapdoor Fault in Kita-Ioto Calder
 
 -
 
-Takemura, S., Kubota, T., & Sandanbata, O. (2024). Successive tsunamigenic events near Sofu Seamount inferred from high-frequency teleseismic P and regional T waves. *Journal of Geophysical Research: Solid Earth*, 129, e2024JB029746. [https://doi.org/10.1029/2024JB029746](https://doi.org/10.1029/2024JB029746) [Summary](https://www.eri.u-tokyo.ac.jp/en/outreach/latestresearch/#:~:text=Successive%20tsunamigenic%20events%20near%20Sofu%20Seamount%20inferred%20from%20high%2Dfrequency%20teleseismic%20P%20and%20regional%20T%20waves)
+Takemura, S., Kubota, T., & Sandanbata, O. (2024). Successive tsunamigenic events near Sofu Seamount inferred from high-frequency teleseismic P and regional T waves. *Journal of Geophysical Research: Solid Earth*, 129, e2024JB029746. [https://doi.org/10.1029/2024JB029746](https://doi.org/10.1029/2024JB029746) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/outreach/latestresearch/#:~:text=Successive%20tsunamigenic%20events%20near%20Sofu%20Seamount%20inferred%20from%20high%2Dfrequency%20teleseismic%20P%20and%20regional%20T%20waves)
 
 -
 
