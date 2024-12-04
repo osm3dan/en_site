@@ -8,9 +8,9 @@ layout: post
 
 ### 2024.
 
-2024/11/29: First-authored paper published. [Sandanbata & Saito (2024a, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029755) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/outreach/latestresearch/#:~:text=Segmented%20trapdoor%20fault%20in%20a%20submarine%20caldera%20revealed%20with%20milli%2Dmeter%20tsunami%20waveform%20record)
+2024/11/29: First-authored paper published. [Sandanbata & Saito (2024a, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029755) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/research/6579/)
 
-2024/10/17: Co-authored paper published. [Takemura *et al.* (2024, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029746) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/outreach/latestresearch/#:~:text=Successive%20tsunamigenic%20events%20near%20Sofu%20Seamount%20inferred%20from%20high%2Dfrequency%20teleseismic%20P%20and%20regional%20T%20waves)
+2024/10/17: Co-authored paper published. [Takemura *et al.* (2024, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029746) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/research/6543/)
 
 2024/09/24: An earthquake & tsunami at Sumisu Caldera. [Short report (in Japanese)](../../pages/jishin/#2024年9月24日-鳥島近海地震津波)
 

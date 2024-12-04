@@ -10,11 +10,11 @@ title: Publications
 
 ### Peer-reviewed papers
 
-Sandanbata, O., & Saito, T. (2024). Segmented Trapdoor Fault in Kita-Ioto Caldera, Japan: Insights From Millimeter Tsunami Waves Captured by an Array Network of Ocean Bottom Pressure Gauges. *Journal of Geophysical Research: Solid Earth*, 129(12), e2024JB029755. [https://doi.org/10.1029/2024JB029755](https://doi.org/10.1029/2024JB029755) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/outreach/latestresearch/#:~:text=Segmented%20trapdoor%20fault%20in%20a%20submarine%20caldera%20revealed%20with%20milli%2Dmeter%20tsunami%20waveform%20record)
+Sandanbata, O., & Saito, T. (2024). Segmented Trapdoor Fault in Kita-Ioto Caldera, Japan: Insights From Millimeter Tsunami Waves Captured by an Array Network of Ocean Bottom Pressure Gauges. *Journal of Geophysical Research: Solid Earth*, 129(12), e2024JB029755. [https://doi.org/10.1029/2024JB029755](https://doi.org/10.1029/2024JB029755) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/research/6579/)
 
 -
 
-Takemura, S., Kubota, T., & Sandanbata, O. (2024). Successive tsunamigenic events near Sofu Seamount inferred from high-frequency teleseismic P and regional T waves. *Journal of Geophysical Research: Solid Earth*, 129, e2024JB029746. [https://doi.org/10.1029/2024JB029746](https://doi.org/10.1029/2024JB029746) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/outreach/latestresearch/#:~:text=Successive%20tsunamigenic%20events%20near%20Sofu%20Seamount%20inferred%20from%20high%2Dfrequency%20teleseismic%20P%20and%20regional%20T%20waves)
+Takemura, S., Kubota, T., & Sandanbata, O. (2024). Successive tsunamigenic events near Sofu Seamount inferred from high-frequency teleseismic P and regional T waves. *Journal of Geophysical Research: Solid Earth*, 129, e2024JB029746. [https://doi.org/10.1029/2024JB029746](https://doi.org/10.1029/2024JB029746) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/research/6543/)
 
 -
 
