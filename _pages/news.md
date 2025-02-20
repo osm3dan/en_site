@@ -6,9 +6,15 @@ date: 2024-09-17
 layout: post
 ---
 
+### 2025.
+
+2025/02/17: Co-authored paper selected as AGU Editor's Highlight[[Link]](https://eos.org/editor-highlights/t-waves-may-improve-tsunami-early-warning-systems)
+
+2025/02/09: Attended AGU Chapman Conference [[Link]](https://agu.confex.com/agu/25chapman2/prelim.cgi/Home/0)
+
 ### 2024.
 
-2024/11/29: First-authored paper published. [Sandanbata & Saito (2024a, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029755) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/research/6579/)
+2024/11/29: First-authored paper published. [Sandanbata & Saito (2024b, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029755) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/research/6579/)
 
 2024/10/17: Co-authored paper published. [Takemura *et al.* (2024, JGR: Solid Earth)](https://doi.org/10.1029/2024JB029746) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/research/6543/)
 
