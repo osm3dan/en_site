@@ -8,6 +8,8 @@ layout: post
 
 ### 2025.
 
+2025/04/01: Dr. Hélène Le Mével visits ERI as "Y2025 JSPS Invitational Felowships for Research ni Japan (Long-term)" [[Link]](https://www.jsps.go.jp/file/storage/e-inv/adoptlist/FY2025/2025_long_e.pdf)
+
 2025/02/17: Co-authored paper selected as AGU Editor's Highlight[[Link]](https://eos.org/editor-highlights/t-waves-may-improve-tsunami-early-warning-systems)
 
 2025/02/09: Attended AGU Chapman Conference [[Link]](https://agu.confex.com/agu/25chapman2/prelim.cgi/Home/0)
