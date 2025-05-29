@@ -8,9 +8,13 @@ layout: post
 
 ### 2025.
 
-2025/04/01: Dr. Hélène Le Mével visits ERI as "Y2025 JSPS Invitational Felowships for Research ni Japan (Long-term)" [[Link]](https://www.jsps.go.jp/file/storage/e-inv/adoptlist/FY2025/2025_long_e.pdf)
+2025/05/28: Invited talk in "Volcanoes in the sea" Session at JpGU 2025. [[Link]](https://confit.atlas.jp/guide/event/jpgu2025/subject/SVC36-03/detail)
 
-2025/02/17: Co-authored paper selected as AGU Editor's Highlight[[Link]](https://eos.org/editor-highlights/t-waves-may-improve-tsunami-early-warning-systems)
+2025/05/14: Received "Young Scientist Award" of The Volcanology Society of Japan. [[Link]](https://kazan-g.sakura.ne.jp/J/doc/awards/VSJ_Young_Scientist_Award/34.html)
+
+2025/04/01: Dr. Hélène Le Mével visits ERI as Y2025 JSPS Invitational Felowships for Research ni Japan (Long-term) [[Link]](https://www.jsps.go.jp/file/storage/e-inv/adoptlist/FY2025/2025_long_e.pdf)
+
+2025/02/17: Co-authored paper selected as AGU Editor's Highlight [[Link]](https://eos.org/editor-highlights/t-waves-may-improve-tsunami-early-warning-systems)
 
 2025/02/09: Attended AGU Chapman Conference [[Link]](https://agu.confex.com/agu/25chapman2/prelim.cgi/Home/0)
 
