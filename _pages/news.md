@@ -8,6 +8,10 @@ layout: post
 
 ### 2025.
 
+2025/10/20: Commemorative lecture (Young Researcher Award) at Seismological Society of Japan 2025. 
+
+2025/10/03: Commemorative lecture (Young Scientist Award) at Volocanological Society of Japan 2025. 
+
 2025/08/27-28: Co-organized "Joint Workshop of the ERI-DPRI Tsunami Research Group 2025" supported by the Core-to-Core Collaborative research program of ERI, U-Tokyo, and 
 DPRI, Kyoto University.
 
@@ -15,7 +19,7 @@ DPRI, Kyoto University.
 
 2025/07/16: Received "Young Scientist Award" of The Seismological Society of Japan. [[Link]](https://www.zisin.jp/news/20250716_awards.html)
 s
-2025/05/28: Gave Invited Talk in "Volcanoes in the sea" Session at JpGU 2025. [[Link]](https://confit.atlas.jp/guide/event/jpgu2025/subject/SVC36-03/detail)
+2025/05/28: Invited Talk in "Volcanoes in the sea" Session at JpGU 2025. [[Link]](https://confit.atlas.jp/guide/event/jpgu2025/subject/SVC36-03/detail)
 
 2025/05/14: Received "Young Scientist Award" of The Volcanology Society of Japan. [[Link]](https://kazan-g.sakura.ne.jp/J/doc/awards/VSJ_Young_Scientist_Award/34.html)
 
