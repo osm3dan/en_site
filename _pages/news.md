@@ -10,6 +10,8 @@ layout: post
 
 2025/10/20: Commemorative lecture (Young Researcher Award) at Seismological Society of Japan 2025. 
 
+2025/10/20: Commemorative lecture (Young Researcher Award) at Seismological Society of Japan 2025. 
+
 2025/10/03: Commemorative lecture (Young Scientist Award) at Volocanological Society of Japan 2025. 
 
 2025/08/27-28: Co-organized "Joint Workshop of the ERI-DPRI Tsunami Research Group 2025" supported by the Core-to-Core Collaborative research program of ERI, U-Tokyo, and 

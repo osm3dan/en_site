@@ -5,11 +5,15 @@ title: Publications
 
 ### Submitted papers 
 
-Sandanbata, O., & Takemura, S. (2025, October 12). Full-spectrum similarity of repeating trapdoor faulting. *ESS Open Archive*. [https://doi.org/10.22541/essoar.176029165.57842046/v1](https://doi.org/10.22541/essoar.176029165.57842046/v1) (in review)
+Sandanbata, O., Trapdoor Faulting at Submarine Calderas—Atypical in earthquakes and tsunamis, but common in volcanic calderas— (in Japanese), Japansese Journal "Zisin", Seismological Society of Japan.（submitted on February 18, 2026)
 
 -
 
 ### Peer-reviewed papers
+
+Sandanbata, O., & Takemura, S. (2025). Full‐spectrum similarity of repeating trapdoor faulting. Geophysical Research Letters, 52(24), e2025GL119615. [https://doi.org/10.1029/2025gl119615](https://doi.org/10.1029/2025gl119615) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/research/7095/)
+
+-
 
 Sandanbata, O., & Saito, T. (2024b). Segmented Trapdoor Fault in Kita-Ioto Caldera, Japan: Insights From Millimeter Tsunami Waves Captured by an Array Network of Ocean Bottom Pressure Gauges. *Journal of Geophysical Research: Solid Earth*, 129(12), e2024JB029755. [https://doi.org/10.1029/2024JB029755](https://doi.org/10.1029/2024JB029755) [[Summary]](https://www.eri.u-tokyo.ac.jp/en/research/6579/)
 
